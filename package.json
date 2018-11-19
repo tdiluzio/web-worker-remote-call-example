@@ -1,5 +1,5 @@
 {
-  "name": "web-workers",
+  "name": "web-workers-remote-call",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
