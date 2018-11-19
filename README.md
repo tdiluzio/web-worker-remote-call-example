@@ -19,3 +19,6 @@ to run the gist and open a browser tab at `localhost:1234`
 
 ### Results
 ![API call from Web worker thread result](./docs/worker-result.png)
+
+## Update
+Please feel free to update this example by adding features or more complexity to it
